@@ -1,3 +1,3 @@
 # flask-portfolio
 
-vist tyleralgigi.com to see my portfolio 
+vist www.tyleralgigi.com to see my portfolio 
